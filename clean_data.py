@@ -8,20 +8,20 @@ else:
 # 2. Question 2 works!
 x = 5
 if (len("Dog") < x):
-    print("Question 2 works!")
+    print("Question 3 works!")
 else:
     print("Still missing out")
 
 # 3. GOT QUESTION 3!
 x = 2
 y = 5
-if ((x**3 >= y) and (y**2 < 26)):
+if ((y**3 >= y) and (y**2 < 26)):
     print("GOT QUESTION 3!")
 else:
     print("Oh good you can count")
 
 # 4. Dan is in group three
-name = "Dan"
+name = "Paul"
 group_one = ["Greg", "Tony", "Susan"]
 group_two = ["Gerald", "Paul", "Ryder"]
 group_three = ["Carla", "Dan", "Jefferson"]
